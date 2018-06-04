@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Craps</string>
+  <string name="play_button">Roll \'dem Bones!</string>
+  <string name="status_pattern">First: %1$s; last: %2$s; result after %3$d rolls: %4$s.</string>
+  <string name="simple_status_pattern">Roll: %1$s; result: %2$s.</string>
+
+</resources>
