@@ -1,7 +1,12 @@
 <resources>
   <string name="app_name">Craps</string>
-  <string name="play_button">Roll \'dem Bones!</string>
   <string name="status_pattern">First: %1$s; last: %2$s; result after %3$d rolls: %4$s.</string>
   <string name="simple_status_pattern">Roll: %1$s; result: %2$s.</string>
+  <string name="dice_sum_pattern">= %1$d</string>
+  <string name="play_once">Play Once</string>
+  <string name="run">Run</string>
+  <string name="stop">Stop</string>
+  <string name="reset">Reset</string>
+  <string name="tally_pattern">%1$,d wins / %2$,d plays = %3$.3f%%</string>
 
 </resources>
